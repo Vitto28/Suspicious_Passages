@@ -1,1 +1,7 @@
 .venv
+
+# Personal/local path configuration
+.env
+.env.*
+!.env.example
+paths.local.json
